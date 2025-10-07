@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ad20531-7aa5-4dd2-9072-47826eb1df99" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="com.intellij.jpb.JpaEntity" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="335mKJ1IltpdJpqvpx6ICH3jc2E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Database detector": "Database detector",
+    "Notification.DoNotAsk-Database detector": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.QuanLiThietBiApplication.executor": "Debug",
+    "Spring Boot.QuanLyThietBiApplication.executor": "Debug",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Quanlythietbi/QuanLyThietBi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.37356323",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlserver"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="QuanLyThietBiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="quanlithietbi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.quanlithietbi.QuanLyThietBiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ad20531-7aa5-4dd2-9072-47826eb1df99" name="Changes" comment="" />
+      <created>1758615241301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758615241301</updated>
+      <workItem from="1758615242439" duration="54000" />
+      <workItem from="1758615328106" duration="2139000" />
+      <workItem from="1758617515743" duration="2120000" />
+      <workItem from="1758679672986" duration="2802000" />
+      <workItem from="1758682508082" duration="4376000" />
+      <workItem from="1758687222104" duration="9671000" />
+      <workItem from="1758850002677" duration="16810000" />
+      <workItem from="1759110762101" duration="5783000" />
+      <workItem from="1759118866756" duration="1886000" />
+      <workItem from="1759132486422" duration="2329000" />
+      <workItem from="1759136772597" duration="1223000" />
+      <workItem from="1759291351274" duration="639000" />
+      <workItem from="1759302037393" duration="4263000" />
+      <workItem from="1759306347701" duration="4749000" />
+      <workItem from="1759388829746" duration="2255000" />
+      <workItem from="1759391349096" duration="54000" />
+      <workItem from="1759391413917" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" migrateIndexesAndConstraints="true" reUseTableSchema="true">
+    <option name="migrateIndexesAndConstraints" value="true" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/example/quanlithietbi/entity" />
+    <option name="reverseEngineeringLastDbConnectionId" value="7db228d6-c83b-4fc1-aedc-29504ccdcf88" />
+  </component>
+  <component name="JpaPluginProjectSettings">
+    <option name="entityNameTemplate" />
+    <option name="tableNameTemplate" value="${className.underscore().toUpperCase()}" />
+    <option name="columnNameTemplate" value="${fieldName.underscore().toUpperCase()}" />
+    <option name="indexCase" value="upper" />
+    <option name="scaffoldingLanguage" />
+  </component>
+</project>
